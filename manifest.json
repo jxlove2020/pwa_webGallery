@@ -1,7 +1,7 @@
 {
-  "name": "Youtube Clone PWA by Joseph",
-  "short_name": "Youtube Clone PWA",
-  "description": "Youtube Clone PWA by Joseph",
+  "name": "WebGallery PWA by Joseph",
+  "short_name": "WebGallery PWA",
+  "description": "WebGallery PWA by Joseph",
   "scope": ".",
   "start_url": "./",
   "display": "standalone",
